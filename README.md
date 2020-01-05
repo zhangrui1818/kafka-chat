@@ -1,1 +1,1 @@
-# kafka-chat
+# kafka-chat-server
