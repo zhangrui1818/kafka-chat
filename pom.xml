@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>kafka.zr.com</groupId>
-    <artifactId>kafka-chat</artifactId>
+    <artifactId>kafka-chat-server</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
