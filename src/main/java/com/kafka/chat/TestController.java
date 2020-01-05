@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 @RequestMapping("/home/")
-public class IndexController {
+public class TestController {
 	@RequestMapping(value = "index", method = RequestMethod.GET)
 	@ResponseBody
 	public String index() {
